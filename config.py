@@ -1,0 +1,7 @@
+account_sid = "YOUR ACCOUNT SID FROM TWILIO"
+auth_token = "YOUR AUTH TOKEN FROM TWILIO"
+
+send_from = "whatsapp:+YOUR TEST PHONE NUMBER"
+send_to = "whatsapp:+TWILIO SANDBOX/TEST PHONE NUMBER"
+
+keyword = "ANY KEYWORD YOU WANT TO FILTER FROM QUOTES"
